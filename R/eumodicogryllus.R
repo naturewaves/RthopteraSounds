@@ -10,6 +10,7 @@
 #' Duration: ~10 sec.
 #'
 #' @source \url{https://xeno-canto.org/872608}.
+#' @importFrom utils data
 #'
 #' @examples
 #' \dontrun{

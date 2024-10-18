@@ -10,6 +10,7 @@
 #' Duration: 10 sec.
 #'
 #' @source Original recording by Cesare Brizio.
+#' @importFrom utils data
 #'
 #' @examples
 #' \dontrun{

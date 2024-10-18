@@ -10,7 +10,7 @@
 #' Duration: ~5 sec.
 #'
 #' @source Original recording by Cesare Brizio.
-#'
+#' @importFrom utils data
 #' @examples
 #' \dontrun{
 #' data(platycleis)

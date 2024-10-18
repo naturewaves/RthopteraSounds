@@ -2,6 +2,7 @@
 #'
 #' @return All the Wave objects included in the package will be available in the environment.
 #' @export
+#' @importFrom utils data
 #'
 #' @examples
 #' \dontrun{
@@ -20,4 +21,4 @@ load_rthoptera_data <- function() {
 }
 
 # Example usage:
-load_wave_data()
+load_rthoptera_data()
