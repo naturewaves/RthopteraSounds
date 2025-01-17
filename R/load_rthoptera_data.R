@@ -14,10 +14,10 @@ load_rthoptera_data <- function() {
 
   # Load each data item
   for (data_name in data_list) {
-    data(list = data_name, package = "Rthoptera")
+    data(list = data_name, package = "RthopteraSounds")
   }
 
-  message("All Waves in Rthoptera are now available in the R environment.")
+  message("All audio files in RthopteraSounds are now available in the R environment.")
 }
 
 # Example usage:
